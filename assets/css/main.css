@@ -4427,7 +4427,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 #footer form label,
 #footer h3,
 #footer p {
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 
 @media screen and (max-width: 980px) {
